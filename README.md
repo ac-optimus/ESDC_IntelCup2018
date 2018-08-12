@@ -24,13 +24,17 @@ prototype the idea. For dehazing IROB uses AOD-Net and for person-detection Mobi
 is used. MobileNet suits the purpose better here than the other state of art methods like YOLO due to its light weight 
 and better compatibility with embedded platforms. Intel Movidus NCS does the inferencing to perform the person detection task.
 
-
-
-
 ## IROB (Intelligent Rescue Operation Bot)
 
-![alt text](https://lh3.googleusercontent.com/ejcULQwJ1ZZsuvG5xHEy65s-uCvuA6YLKJAP_PO4QK_eJ9KHMq8XpJqlTGcqgTsTxuydhf-BUig-iyJrMDX3dMqyDW9dTbQvEvi8TpezVxr2dxrxSdmiu58vvll9ByKmUGcR6IWhdE4lrCD40y7pk8XltRC8sBD6gfwf1P7-2l8XD8L0pYpT7RE6YzcZgWvVWmaYM_HR2tTvM269IAq-7QAt0LgVEs9B2QuMcOSJThyrdWUM8iATp5JTdM2luuIyStDfUp1tE5y0SAT6CJhrCduCij4bOTnWTDrDEHzlJKH9s51SXqrcUGT_u6bx9RBqECBMHlr9I3I8Pq4NYivyKuhZ5x6fiNlOovKdoxSE-8qqLkDyUDXdVGdFJfvX5_UARBHSn-BqOeDoBhZ5t0u3KGYvPrz6nwpS0563LZELE_nr5muR9vvyuNccRYmjsJGBeZI7btLonnuv_E1WGHlTDl0otxvVkvmVDNOsg6vKTqOW84y-9hUjBOrUtY3hHVCdrZ15uTvn49tRgZC0KpJaerzvcIc7JYDkavjRKA3FsTBjAEV_QanJsgzAx63sklMgOwhZu_ZOyNtvwyi5Z61EpswVps-jYsJj=w720-h959-no)
-![alt text](https://lh3.googleusercontent.com/5aROYT3vFOgEQ_qEP6dtq2I_tg-1zstYW8eNJLT4YtSdWDNeCUgWVZK5yxJoZuG53MCNFD3rp--ylpbcWJ39jwvc-voiF8UF8Fib-FbzXLC40fnhGVe9eWRDMeZiQ1E9BTLTgnBh16Fi0GX1IB0nCOd8qFxMGgh0Xb2jePNKcLbSEwtD65-uI1IT4MliRgJWUEbGBc8kpO7y8SPI2mRc8okH4M8CSuIVf6rTisNkNaqwvPsh2ARL3Ems3RY62rrZEzwfd012SWMp-_I5F-53hFrfuwaTmeJ7kma2fGuJvEdaelxgw93Dj_h3wfrRJjQtNw6f_s0hQhTiAanCD1pte9QZz0tiI1OTGJ18A6maGXCH3djVPzBA8Bu1BuwCPy3JOWA8TiGxOSziZftR6WFYKC1D59AFN6P8Xc5twrZLiv_xEtrhjFFQkFAtGXhrZe7RaTKELhW3FAAuOgYuC_gYQdCSIEDy81n4ab8CP__j8iWr0bCqHwXXJ5f-tNk5IkMh4myQyFWNizWRfca0e2f2OTuRynZL6NrW9DAa-1ozt4S2hChH0pZAjdRzYejb-4ngezByLZCJWKcyr0OKb99EJAc56OVt7NRO=w683-h910-no)
+
+
+
+
+![1](https://user-images.githubusercontent.com/26172160/44004534-7ec553f4-9e81-11e8-8d68-e9cdd8ddaeae.jpg)
+
+![2](https://user-images.githubusercontent.com/26172160/44004546-a4f10672-9e81-11e8-89aa-4f489bb2a69c.jpg)
+
+
 ## For more details and Algorithms
 
 AOD-Net(All-in-One Dehazing Network) - https://ieeexplore.ieee.org/document/8237773/ 
