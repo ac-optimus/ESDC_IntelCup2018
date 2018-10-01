@@ -1,6 +1,6 @@
+# Info
 
-
-IROB uses pre-trained model of MobileNet-SSD. The model is conversion of model originally
+IROB uses pre-trained model of MobileNet-SSD. The model is conversion of model originally#
 implemented on tensorflow framework. The Model was trained on COCO dataset but since
 the main focus was on finding person we choose the model that was fine-tuned on PASCAL VOC
 dataset, which has only 20 different object classes with one background class. Initially the
