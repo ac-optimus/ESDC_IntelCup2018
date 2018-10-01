@@ -1,4 +1,4 @@
-# NOTE
+
 
 IROB uses pre-trained model of MobileNet-SSD. The model is conversion of model originally
 implemented on tensorflow framework. The Model was trained on COCO dataset but since
